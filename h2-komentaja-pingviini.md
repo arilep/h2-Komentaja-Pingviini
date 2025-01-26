@@ -1,3 +1,17 @@
+### Ympäristö
+
+- Käyttöjärjestelmä: Windows 11 Home 64-bit
+- Suoritin: AMD Ryzen 7 5800X 8-Core Processor
+- Muisti: 32GB RAM
+- Näytönohjain: NVIDIA GeForce RTX 3080
+- Oracle VM VirtualBox
+
+### Internet yhteys
+
+- DNA Netti 400M (Download 400Mbps / Upload 200Mbps)
+
+
+
 # Tehtävä x) Command line basics revisited
 **_NOTE:_** Lista hieman kattavampi omia muistiinpanoja varten.
 
