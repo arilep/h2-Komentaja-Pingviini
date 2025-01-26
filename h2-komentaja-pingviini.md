@@ -102,6 +102,8 @@
 - Class - Laitteen tyyppi
 - Description - Kuvaus
 
+Syötteestä nähdään sekä isäntäkoneen (esim. prosessori) että virtuaalikoneen (VirtualBox) tietoja (mm. muistin määrä).
+
 ![image](https://github.com/user-attachments/assets/2fe77ea3-829b-4e09-ac04-ef3f070b2ede)
 
 
